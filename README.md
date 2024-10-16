@@ -1,19 +1,22 @@
 # meals_app
 
-A new Flutter project.
+Meals App
+A Flutter-based meals app that provides users with a categorized list of meals, allows adding meals to favorites, and includes customizable filters for dietary preferences. This app is designed to help users easily discover and manage their favorite meals.
 
-## Getting Started
+Features
+Category-Based Meals: Browse meals organized by different categories (e.g., vegetarian, Italian, quick recipes).
+Favorites: Mark meals as favorites for quick access.
+Filters: Customize the list of meals by applying filters based on dietary preferences such as gluten-free, lactose-free, vegan, or vegetarian.
 
-This project is a starting point for a Flutter application.
+How to Use
+Explore Categories: Start by selecting a category of meals.
+View Meal Details: Each meal includes a detailed description and ingredients.
+Favorite a Meal: Tap on the heart icon to add a meal to your list of favorites.
+Apply Filters: Customize your meal list by applying filters for specific dietary restrictions.
 
-A few resources to get you started if this is your first Flutter project:
+Technologies Used
+Flutter: The app is built using Flutter, allowing for cross-platform development (Android and iOS).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 <img src="https://github.com/user-attachments/assets/0545e3da-ff12-4388-9b6c-08324cb0ee82" alt="img 1" width="200"/>
 <img src="https://github.com/user-attachments/assets/d561e905-9526-4931-b53e-a0935efafbf4" alt="img 2" width="200"/>
