@@ -9,7 +9,7 @@ A Flutter-based meals app that provides users with a categorized list of meals, 
 **Favorites**: Mark meals as favorites for quick access.<br>
 **Filters**: Customize the list of meals by applying filters based on dietary preferences such as gluten-free, lactose-free, vegan, or vegetarian.<br>
 
-**How to Use**
+### How to Use
 
 **Explore Categories**: Start by selecting a category of meals.<br>
 **View Meal Details**: Each meal includes a detailed description and ingredients.<br>
