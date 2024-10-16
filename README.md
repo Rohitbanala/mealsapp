@@ -4,17 +4,20 @@ Meals App
 A Flutter-based meals app that provides users with a categorized list of meals, allows adding meals to favorites, and includes customizable filters for dietary preferences. This app is designed to help users easily discover and manage their favorite meals.
 
 Features
+
 Category-Based Meals: Browse meals organized by different categories (e.g., vegetarian, Italian, quick recipes).
 Favorites: Mark meals as favorites for quick access.
 Filters: Customize the list of meals by applying filters based on dietary preferences such as gluten-free, lactose-free, vegan, or vegetarian.
 
 How to Use
+
 Explore Categories: Start by selecting a category of meals.
 View Meal Details: Each meal includes a detailed description and ingredients.
 Favorite a Meal: Tap on the heart icon to add a meal to your list of favorites.
 Apply Filters: Customize your meal list by applying filters for specific dietary restrictions.
 
 Technologies Used
+
 Flutter: The app is built using Flutter, allowing for cross-platform development (Android and iOS).
 
 
